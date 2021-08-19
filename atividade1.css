@@ -1,0 +1,30 @@
+#div1 {
+    width: 260px;
+    border: 15px solid green;
+    padding: 10px;
+    margin: 5px;
+}
+#div2 {
+    width: 275px;
+    border: 20px solid pink;
+    padding: 10px;
+    margin: 5px;
+}
+#div3 {
+    width: 270px;
+    border: 10px solid blue;
+    padding: 10px;
+    margin: 5px;
+}
+#div4 {
+    width: 210px;
+    border: 30px solid purple;
+    padding: 10px;
+    margin: 5px;
+}
+#div5 {
+    width: 230px;
+    border: 25px solid orange;
+    padding: 10px;
+    margin: 5px;
+}
